@@ -38,7 +38,7 @@ const fillSentence = (sentence, word) => sentence.replace(/_+/g, '_____');
 
 // Local Ollama config
 const OLLAMA_API_URL = 'http://localhost:11434/v1/chat/completions';
-const MODEL = 'llama3:8b';
+const MODEL = 'llama3.1:8b';
 
 const PlayWithAI = () => {
   const { profile, recordAnswer } = useUser();
