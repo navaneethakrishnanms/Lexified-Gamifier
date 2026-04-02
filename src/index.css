@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+/* ===== TamilSense AI Design System ===== */
+/* Duolingo-inspired: clean, vibrant, fun, accessible */
+
+@theme {
+  --color-bg: #131F24;
+  --color-bg-card: #1B2B33;
+  --color-bg-elevated: #243842;
+  --color-bg-hover: #2C4452;
+
+  --color-lime: #58CC02;
+  --color-lime-dark: #46A302;
+  --color-lime-glow: rgba(88, 204, 2, 0.25);
+  
+  --color-sky: #1CB0F6;
+  --color-sky-dark: #1899D6;
+  --color-sky-glow: rgba(28, 176, 246, 0.25);
+  
+  --color-fire: #FF4B4B;
+  --color-fire-dark: #EA2B2B;
+  --color-fire-glow: rgba(255, 75, 75, 0.25);
+  
+  --color-sun: #FFC800;
+  --color-sun-dark: #E5B400;
+  --color-sun-glow: rgba(255, 200, 0, 0.25);
+  
+  --color-purple: #CE82FF;
+  --color-purple-dark: #A855F7;
+  --color-purple-glow: rgba(206, 130, 255, 0.25);
+
+  --color-text: #E8F0F2;
+  --color-text-muted: #8BA4B0;
+  --color-text-dim: #5C7580;
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-active: rgba(255, 255, 255, 0.2);
+
+  --font-sans: 'Inter', 'Noto Sans Tamil', sans-serif;
+  --font-display: 'Outfit', 'Noto Sans Tamil', sans-serif;
+  --font-tamil: 'Noto Sans Tamil', sans-serif;
+}
+
+/* Base */
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-text-dim); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-sky); }
+
+/* ===== Utility Classes ===== */
+
+.card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+}
+
+.card-elevated {
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 24px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease;
+  font-family: var(--font-sans);
+}
+
+.btn-lime {
+  background: var(--color-lime);
+  color: #131F24;
+  box-shadow: 0 4px 0 var(--color-lime-dark);
+}
+.btn-lime:hover { transform: translateY(-2px); box-shadow: 0 6px 0 var(--color-lime-dark); }
+.btn-lime:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--color-lime-dark); }
+
+.btn-sky {
+  background: var(--color-sky);
+  color: #131F24;
+  box-shadow: 0 4px 0 var(--color-sky-dark);
+}
+.btn-sky:hover { transform: translateY(-2px); box-shadow: 0 6px 0 var(--color-sky-dark); }
+.btn-sky:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--color-sky-dark); }
+
+.btn-fire {
+  background: var(--color-fire);
+  color: white;
+  box-shadow: 0 4px 0 var(--color-fire-dark);
+}
+.btn-fire:hover { transform: translateY(-2px); box-shadow: 0 6px 0 var(--color-fire-dark); }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--color-text-muted);
+  border: 2px solid var(--color-border);
+}
+.btn-ghost:hover { background: var(--color-bg-elevated); border-color: var(--color-border-active); color: var(--color-text); }
+
+/* Tamil text emphasis */
+.tamil { font-family: var(--font-tamil); }
+
+/* Progress bar */
+.progress-track { background: var(--color-bg-elevated); border-radius: 99px; height: 12px; overflow: hidden; }
+.progress-fill { height: 100%; border-radius: 99px; transition: width 0.5s cubic-bezier(0.34, 1.56, 0.64, 1); }
+
+/* Glow effects */
+.glow-lime { box-shadow: 0 0 20px var(--color-lime-glow), 0 0 60px var(--color-lime-glow); }
+.glow-sky { box-shadow: 0 0 20px var(--color-sky-glow), 0 0 60px var(--color-sky-glow); }
+.glow-fire { box-shadow: 0 0 20px var(--color-fire-glow); }
+.glow-sun { box-shadow: 0 0 20px var(--color-sun-glow), 0 0 60px var(--color-sun-glow); }
+
+/* Mode card hover */
+.mode-card {
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.mode-card:hover {
+  transform: translateY(-6px) scale(1.02);
+}

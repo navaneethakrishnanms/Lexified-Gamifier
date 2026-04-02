@@ -1,0 +1,799 @@
+{
+  "metadata": {
+    "total_words": 12,
+    "total_senses": 25,
+    "total_nodes": 65,
+    "total_edges": 75
+  },
+  "nodes": [
+    {
+      "id": "word_படி",
+      "type": "word",
+      "label": "படி",
+      "meaning_en": "படி (Root word)"
+    },
+    {
+      "id": "sense_படி_0",
+      "type": "sense",
+      "label": "to read",
+      "meaning_en": "to read",
+      "example": "அவன் தேர்வுக்காகப் பாடம் _____."
+    },
+    {
+      "id": "pos_Verb",
+      "type": "pos",
+      "label": "Verb"
+    },
+    {
+      "id": "sentence_படி_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "அவன் தேர்வுக்காகப் பாடம் படிக்கிறான்."
+    },
+    {
+      "id": "sense_படி_1",
+      "type": "sense",
+      "label": "step/stair",
+      "meaning_en": "step/stair",
+      "example": "கோவில் _____ மிகவும் உயரமாக இருந்தது."
+    },
+    {
+      "id": "pos_Noun",
+      "type": "pos",
+      "label": "Noun"
+    },
+    {
+      "id": "sentence_படி_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "கோவில் படி மிகவும் உயரமாக இருந்தது."
+    },
+    {
+      "id": "word_ஆறு",
+      "type": "word",
+      "label": "ஆறு",
+      "meaning_en": "ஆறு (Root word)"
+    },
+    {
+      "id": "sense_ஆறு_0",
+      "type": "sense",
+      "label": "a river",
+      "meaning_en": "a river",
+      "example": "படகோட்டி ஏரியிலிருந்து _____ வழியே சென்றான்."
+    },
+    {
+      "id": "sentence_ஆறு_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "படகோட்டி ஏரியிலிருந்து ஆற்றில் வழியே சென்றான்."
+    },
+    {
+      "id": "sense_ஆறு_1",
+      "type": "sense",
+      "label": "six",
+      "meaning_en": "six",
+      "example": "அவனுக்கு இப்போது _____ வயதாகிறது."
+    },
+    {
+      "id": "pos_Number",
+      "type": "pos",
+      "label": "Number"
+    },
+    {
+      "id": "sentence_ஆறு_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "அவனுக்கு இப்போது ஆறு வயதாகிறது."
+    },
+    {
+      "id": "sense_ஆறு_2",
+      "type": "sense",
+      "label": "to heal/cool",
+      "meaning_en": "to heal/cool",
+      "example": "சூடான உணவு காற்றில் நன்றாக _____ விட்டது."
+    },
+    {
+      "id": "sentence_ஆறு_2",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "சூடான உணவு காற்றில் நன்றாக ஆறி விட்டது."
+    },
+    {
+      "id": "word_கல்",
+      "type": "word",
+      "label": "கல்",
+      "meaning_en": "கல் (Root word)"
+    },
+    {
+      "id": "sense_கல்_0",
+      "type": "sense",
+      "label": "stone",
+      "meaning_en": "stone",
+      "example": "சிற்பி _____ அழகிய சிலையாகச் செதுக்கினார்."
+    },
+    {
+      "id": "sentence_கல்_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "சிற்பி கல்லை அழகிய சிலையாகச் செதுக்கினார்."
+    },
+    {
+      "id": "sense_கல்_1",
+      "type": "sense",
+      "label": "to learn",
+      "meaning_en": "to learn",
+      "example": "நல்ல பழக்கங்களை நாம் இளமையிலேயே _____ வேண்டும்."
+    },
+    {
+      "id": "sentence_கல்_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "நல்ல பழக்கங்களை நாம் இளமையிலேயே கற்க வேண்டும்."
+    },
+    {
+      "id": "word_திங்கள்",
+      "type": "word",
+      "label": "திங்கள்",
+      "meaning_en": "திங்கள் (Root word)"
+    },
+    {
+      "id": "sense_திங்கள்_0",
+      "type": "sense",
+      "label": "Moon",
+      "meaning_en": "Moon",
+      "example": "வானத்தில் குளிர்ச்சியான முழு _____ ஒளிர்கிறது."
+    },
+    {
+      "id": "sentence_திங்கள்_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "வானத்தில் குளிர்ச்சியான முழு திங்கள் ஒளிர்கிறது."
+    },
+    {
+      "id": "sense_திங்கள்_1",
+      "type": "sense",
+      "label": "Monday",
+      "meaning_en": "Monday",
+      "example": "பள்ளி வேலை நாளின் முதல் கிழமை _____."
+    },
+    {
+      "id": "sentence_திங்கள்_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "பள்ளி வேலை நாளின் முதல் கிழமை திங்கள்."
+    },
+    {
+      "id": "word_மாலை",
+      "type": "word",
+      "label": "மாலை",
+      "meaning_en": "மாலை (Root word)"
+    },
+    {
+      "id": "sense_மாலை_0",
+      "type": "sense",
+      "label": "Evening",
+      "meaning_en": "Evening",
+      "example": "சூரியன் மறையும் _____ வேளையில் பறவைகள் கூடு திரும்பும்."
+    },
+    {
+      "id": "sentence_மாலை_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "சூரியன் மறையும் மாலை வேளையில் பறவைகள் கூடு திரும்பும்."
+    },
+    {
+      "id": "sense_மாலை_1",
+      "type": "sense",
+      "label": "Garland",
+      "meaning_en": "Garland",
+      "example": "சாமிக்கு அழகிய பூப் _____ அணிவித்தனர்."
+    },
+    {
+      "id": "sentence_மாலை_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "சாமிக்கு அழகிய பூப் மாலை அணிவித்தனர்."
+    },
+    {
+      "id": "word_கலை",
+      "type": "word",
+      "label": "கலை",
+      "meaning_en": "கலை (Root word)"
+    },
+    {
+      "id": "sense_கலை_0",
+      "type": "sense",
+      "label": "Art",
+      "meaning_en": "Art",
+      "example": "அவளுக்கு நடனக் _____ நன்றாகத் தெரியும்."
+    },
+    {
+      "id": "sentence_கலை_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "அவளுக்கு நடனக் கலை நன்றாகத் தெரியும்."
+    },
+    {
+      "id": "sense_கலை_1",
+      "type": "sense",
+      "label": "To disperse",
+      "meaning_en": "To disperse",
+      "example": "கூட்டம் மெதுவாகக் _____ வீடுகளுக்குச் சென்றது."
+    },
+    {
+      "id": "sentence_கலை_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "கூட்டம் மெதுவாகக் கலைந்து வீடுகளுக்குச் சென்றது."
+    },
+    {
+      "id": "word_பார்",
+      "type": "word",
+      "label": "பார்",
+      "meaning_en": "பார் (Root word)"
+    },
+    {
+      "id": "sense_பார்_0",
+      "type": "sense",
+      "label": "Look / See",
+      "meaning_en": "Look / See",
+      "example": "அங்கே வானத்தில் பறக்கும் கிளியைப் _____."
+    },
+    {
+      "id": "sentence_பார்_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "அங்கே வானத்தில் பறக்கும் கிளியைப் பார்."
+    },
+    {
+      "id": "sense_பார்_1",
+      "type": "sense",
+      "label": "World / Earth",
+      "meaning_en": "World / Earth",
+      "example": "இந்தப் _____ முழுவதும் உன் புகழ் பரவ வேண்டும்."
+    },
+    {
+      "id": "sentence_பார்_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "இந்தப் பார் முழுவதும் உன் புகழ் பரவ வேண்டும்."
+    },
+    {
+      "id": "word_அடி",
+      "type": "word",
+      "label": "அடி",
+      "meaning_en": "அடி (Root word)"
+    },
+    {
+      "id": "sense_அடி_0",
+      "type": "sense",
+      "label": "Bottom / Base",
+      "meaning_en": "Bottom / Base",
+      "example": "பழமையான மரத்தின் _____ மிகவும் அகலமாக இருக்கும்."
+    },
+    {
+      "id": "sentence_அடி_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "பழமையான மரத்தின் அடி மிகவும் அகலமாக இருக்கும்."
+    },
+    {
+      "id": "sense_அடி_1",
+      "type": "sense",
+      "label": "To hit (sports)",
+      "meaning_en": "To hit (sports)",
+      "example": "மட்டைப்பந்து விளையாட்டில் பந்தை வேகமாக _____."
+    },
+    {
+      "id": "sentence_அடி_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "மட்டைப்பந்து விளையாட்டில் பந்தை வேகமாக அடி."
+    },
+    {
+      "id": "word_கால்",
+      "type": "word",
+      "label": "கால்",
+      "meaning_en": "கால் (Root word)"
+    },
+    {
+      "id": "sense_கால்_0",
+      "type": "sense",
+      "label": "Leg",
+      "meaning_en": "Leg",
+      "example": "ஓடும் குதிரையின் பின்னழகு அதன் _____ வளைவில் தெரியும்."
+    },
+    {
+      "id": "sentence_கால்_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "ஓடும் குதிரையின் பின்னழகு அதன் கால் வளைவில் தெரியும்."
+    },
+    {
+      "id": "sense_கால்_1",
+      "type": "sense",
+      "label": "Quarter (1/4th)",
+      "meaning_en": "Quarter (1/4th)",
+      "example": "ஒரு முழுப் பழத்தில் நான்கில் ஒரு பங்கு _____ எனப்படும்."
+    },
+    {
+      "id": "sentence_கால்_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "ஒரு முழுப் பழத்தில் நான்கில் ஒரு பங்கு கால் எனப்படும்."
+    },
+    {
+      "id": "word_பால்",
+      "type": "word",
+      "label": "பால்",
+      "meaning_en": "பால் (Root word)"
+    },
+    {
+      "id": "sense_பால்_0",
+      "type": "sense",
+      "label": "Milk",
+      "meaning_en": "Milk",
+      "example": "பசு நமக்குச் சத்தான _____ தருகிறது."
+    },
+    {
+      "id": "sentence_பால்_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "பசு நமக்குச் சத்தான பால் தருகிறது."
+    },
+    {
+      "id": "sense_பால்_1",
+      "type": "sense",
+      "label": "Gender/Classification",
+      "meaning_en": "Gender/Classification",
+      "example": "தமிழ் இலக்கணத்தில் ஐந்து _____ வகைகள் உண்டு."
+    },
+    {
+      "id": "sentence_பால்_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "தமிழ் இலக்கணத்தில் ஐந்து பால் வகைகள் உண்டு."
+    },
+    {
+      "id": "word_நாடு",
+      "type": "word",
+      "label": "நாடு",
+      "meaning_en": "நாடு (Root word)"
+    },
+    {
+      "id": "sense_நாடு_0",
+      "type": "sense",
+      "label": "Country",
+      "meaning_en": "Country",
+      "example": "நாம் வாழும் இயற்கை வளம் மிக்க _____ இந்தியா."
+    },
+    {
+      "id": "sentence_நாடு_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "நாம் வாழும் இயற்கை வளம் மிக்க நாடு இந்தியா."
+    },
+    {
+      "id": "sense_நாடு_1",
+      "type": "sense",
+      "label": "To seek / approach",
+      "meaning_en": "To seek / approach",
+      "example": "சிறந்த அறிவைப் பெற நல்ல நூல்களை நாடிச் செல்ல வேண்டும்."
+    },
+    {
+      "id": "sentence_நாடு_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "சிறந்த அறிவைப் பெற நல்ல நூல்களை நாடிச் செல்ல வேண்டும்."
+    },
+    {
+      "id": "word_ஆடு",
+      "type": "word",
+      "label": "ஆடு",
+      "meaning_en": "ஆடு (Root word)"
+    },
+    {
+      "id": "sense_ஆடு_0",
+      "type": "sense",
+      "label": "Sheep / Goat",
+      "meaning_en": "Sheep / Goat",
+      "example": "புல்வெளியில் வெள்ளை நிற _____ மேய்ந்து கொண்டிருந்தது."
+    },
+    {
+      "id": "sentence_ஆடு_0",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "புல்வெளியில் வெள்ளை நிற ஆடு மேய்ந்து கொண்டிருந்தது."
+    },
+    {
+      "id": "sense_ஆடு_1",
+      "type": "sense",
+      "label": "To dance",
+      "meaning_en": "To dance",
+      "example": "விழாவில் இசைக்கு ஏற்றபடி அழகாக நடனம் _____."
+    },
+    {
+      "id": "sentence_ஆடு_1",
+      "type": "sentence",
+      "label": "Sentence",
+      "text": "விழாவில் இசைக்கு ஏற்றபடி அழகாக நடனம் ஆடு."
+    }
+  ],
+  "edges": [
+    {
+      "source": "word_படி",
+      "target": "sense_படி_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_படி_0",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_படி_0",
+      "target": "sentence_படி_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_படி",
+      "target": "sense_படி_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_படி_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_படி_1",
+      "target": "sentence_படி_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_ஆறு",
+      "target": "sense_ஆறு_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_ஆறு_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_ஆறு_0",
+      "target": "sentence_ஆறு_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_ஆறு",
+      "target": "sense_ஆறு_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_ஆறு_1",
+      "target": "pos_Number",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_ஆறு_1",
+      "target": "sentence_ஆறு_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_ஆறு",
+      "target": "sense_ஆறு_2",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_ஆறு_2",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_ஆறு_2",
+      "target": "sentence_ஆறு_2",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கல்",
+      "target": "sense_கல்_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கல்_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கல்_0",
+      "target": "sentence_கல்_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கல்",
+      "target": "sense_கல்_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கல்_1",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கல்_1",
+      "target": "sentence_கல்_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_திங்கள்",
+      "target": "sense_திங்கள்_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_திங்கள்_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_திங்கள்_0",
+      "target": "sentence_திங்கள்_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_திங்கள்",
+      "target": "sense_திங்கள்_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_திங்கள்_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_திங்கள்_1",
+      "target": "sentence_திங்கள்_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_மாலை",
+      "target": "sense_மாலை_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_மாலை_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_மாலை_0",
+      "target": "sentence_மாலை_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_மாலை",
+      "target": "sense_மாலை_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_மாலை_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_மாலை_1",
+      "target": "sentence_மாலை_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கலை",
+      "target": "sense_கலை_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கலை_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கலை_0",
+      "target": "sentence_கலை_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கலை",
+      "target": "sense_கலை_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கலை_1",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கலை_1",
+      "target": "sentence_கலை_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_பார்",
+      "target": "sense_பார்_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_பார்_0",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_பார்_0",
+      "target": "sentence_பார்_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_பார்",
+      "target": "sense_பார்_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_பார்_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_பார்_1",
+      "target": "sentence_பார்_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_அடி",
+      "target": "sense_அடி_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_அடி_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_அடி_0",
+      "target": "sentence_அடி_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_அடி",
+      "target": "sense_அடி_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_அடி_1",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_அடி_1",
+      "target": "sentence_அடி_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கால்",
+      "target": "sense_கால்_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கால்_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கால்_0",
+      "target": "sentence_கால்_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_கால்",
+      "target": "sense_கால்_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_கால்_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_கால்_1",
+      "target": "sentence_கால்_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_பால்",
+      "target": "sense_பால்_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_பால்_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_பால்_0",
+      "target": "sentence_பால்_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_பால்",
+      "target": "sense_பால்_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_பால்_1",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_பால்_1",
+      "target": "sentence_பால்_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_நாடு",
+      "target": "sense_நாடு_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_நாடு_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_நாடு_0",
+      "target": "sentence_நாடு_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_நாடு",
+      "target": "sense_நாடு_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_நாடு_1",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_நாடு_1",
+      "target": "sentence_நாடு_1",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_ஆடு",
+      "target": "sense_ஆடு_0",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_ஆடு_0",
+      "target": "pos_Noun",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_ஆடு_0",
+      "target": "sentence_ஆடு_0",
+      "relation": "HAS_EXAMPLE"
+    },
+    {
+      "source": "word_ஆடு",
+      "target": "sense_ஆடு_1",
+      "relation": "HAS_SENSE"
+    },
+    {
+      "source": "sense_ஆடு_1",
+      "target": "pos_Verb",
+      "relation": "HAS_POS"
+    },
+    {
+      "source": "sense_ஆடு_1",
+      "target": "sentence_ஆடு_1",
+      "relation": "HAS_EXAMPLE"
+    }
+  ]
+}
